@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Getting Started
 
 Welcome to our framework, which aims to accelerate web development, enhance productivity, and maintain high quality by leveraging the latest AI advancements. Follow the steps below to get started.
