@@ -47,8 +47,8 @@ In this example, the baseUrl is set to ./app/src. This means that all relative m
 
 The `baseUrl` setting works well with other configuration options in your project:
 
-* **`paths`**: You can define specific path aliases relative to the `baseUrl` to further simplify module resolution.
-* **`entryPoints`**: By setting a consistent `baseUrl`, your entry points can be specified more intuitively.
+* **paths**: You can define specific path aliases relative to the `baseUrl` to further simplify module resolution.
+* **entryPoints**: By setting a consistent `baseUrl`, your entry points can be specified more intuitively.
 
 ### Common Use Cases
 
