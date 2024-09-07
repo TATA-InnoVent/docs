@@ -3,9 +3,9 @@ sidebar_position: 1
 slug: /
 ---
 
-# 🚀 AI-Powered Frontend Generation Framework
+# Overview
 
-## ✨ Overview
+## 🚀 AI-Powered Frontend Generation Framework
 
 Welcome to the **AI-Powered Frontend Generation Framework** – your new best friend in web development! This groundbreaking solution is designed to accelerate and simplify the frontend development process. By harnessing the power of AI, we’re taking the drudgery out of coding, making rapid prototyping a breeze, and slashing both development time and costs.
 
