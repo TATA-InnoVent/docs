@@ -1,8 +1,4 @@
----
-sidebar_position: 3
----
-
-# `use ai:[<llm>]`
+# Usage
 
 Let's dive deep into the **`use ai:[llm]` directive**
 
