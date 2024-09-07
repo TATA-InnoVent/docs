@@ -1,11 +1,11 @@
-# use ai: [llm]
+# `use ai:[<llm>]`
 
-Let's dive deep into the **use ai: [llm] directive**
+Let's dive deep into the **`use ai:[llm]` directive**
 
 ## Directive Usage
 
-The directive `use ai: [<llm>]` is employed to activate a custom LLM designed for automating webpage development. By processing user prompts, this LLM generates the necessary HTML, CSS, and JavaScript code to build web components or complete webpages, effectively streamlining the development process and minimizing the need for manual coding. <br/>
-Note: Write `use ai: [<llm>]` at top in each component file.
+The directive `use ai:[<llm>]` is employed to activate a custom LLM designed for automating webpage development. By processing user prompts, this LLM generates the necessary HTML, CSS, and JavaScript code to build web components or complete webpages, effectively streamlining the development process and minimizing the need for manual coding. <br/>
+Note: Write `use ai:[<llm>]` at top in each component file.
 
 ## Example Usage of `use ai:[gemini]`
 
