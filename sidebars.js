@@ -26,9 +26,30 @@ const sidebars = {
     // },
     {
       type: 'category',
+      label: 'Configuration',
+      items: [
+        'Configuration/baseUrl', // Case sensitive and exact path
+        'Configuration/boilerPlate',
+        'Configuration/depthLimit',
+        'Configuration/entryPoints',
+        'Configuration/includeComponentCode',
+        'Configuration/llmDirectives',
+        'Configuration/runOnce',
+      ],
+    },
+    {
+      type: 'category',
       label: 'Component Prompts',
       items: [
-        'Component Prompts/writing-prompts', // Case sensitive and exact path
+        {
+          type: 'category',
+          label: 'Writing Prompts',
+          items: [
+            'Component Prompts/Writing Prompts/system-prompt', // Case sensitive and exact path
+            'Component Prompts/Writing Prompts/component-prompt',
+            'Component Prompts/Writing Prompts/boilerplate-prompt',
+          ],
+        },
         'Component Prompts/prompt-chaining',
       ],
     },
@@ -43,7 +64,7 @@ const sidebars = {
           items: [
             'LLM Integration/setup/api-key-setup', // Correct path found from logs
             'LLM Integration/setup/model-configuration',
-            'LLM Integration/setup/common-tasks',
+            // 'LLM Integration/setup/common-tasks',
           ],
         },
         {
